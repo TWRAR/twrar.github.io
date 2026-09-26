@@ -1,0 +1,7 @@
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+
+# Local tooling - never deployed or committed
+.venv/
+node_modules/
